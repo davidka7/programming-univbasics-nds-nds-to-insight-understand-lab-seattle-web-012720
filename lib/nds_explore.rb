@@ -8,13 +8,13 @@ def pretty_print_nds(nds)
   
   # Change the code below to pretty print the nds with pp
   pp nds
-  binding.pry
+  #binding.pry
 end
 
  
 def print_first_directors_movie_titles
 
- binding.pry
+ #binding.pry
  column_index = 0
   while column_index < directors_database[0][:movies].length do 
 
